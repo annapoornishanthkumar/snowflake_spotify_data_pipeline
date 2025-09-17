@@ -1,5 +1,3 @@
-# snowflake_spotify_data_pipeline
-
 # 🎵 Spotify Snowflake End to End ETL Datapipeline (Python, AWS, Snowflake)
 
 ## 📌 Overview
