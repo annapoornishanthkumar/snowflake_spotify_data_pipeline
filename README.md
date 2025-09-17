@@ -55,3 +55,10 @@ spotify-pipeline/
 1. Clone the repo:
    ```bash
    git clone https://github.com/annapoornishanthkumar/snowflake_spotify_data_pipeline.git
+
+✨ Future Enhancements
+
+* Add Airflow / Step Functions for orchestration
+* Implement dbt for SQL-based transformations
+* Add logging & monitoring (CloudWatch + SNS alerts)
+* Build a dashboard (Tableau / Power BI) on top of Snowflake
