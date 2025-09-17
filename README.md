@@ -9,6 +9,9 @@ The pipeline is fully automated using **Python, AWS Lambda, S3, and Snowflake Sn
 
 ---
 
+## 📊 Architecture / Data Pipeline
+![Spotify Snowflake ETL Pipeline](Spotify_snowflake_end_to_end_ETL_datapipeline.png)
+
 ## 🚀 Architecture Workflow
 
 1. **Data Extraction**
