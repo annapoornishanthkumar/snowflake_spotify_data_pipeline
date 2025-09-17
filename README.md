@@ -1,6 +1,6 @@
 # snowflake_spotify_data_pipeline
 
-# 🎵 Spotify Top 100 Data Pipeline (Python, AWS, Snowflake)
+# 🎵 Spotify Snowflake End to End ETL Datapipeline (Python, AWS, Snowflake)
 
 ## 📌 Overview
 This project demonstrates an **end-to-end data pipeline** that extracts, processes, and loads Spotify’s Top 100 songs into Snowflake for analytics.  
