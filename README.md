@@ -43,7 +43,6 @@ spotify-pipeline/
 │── Spotify_snowflake_end_to_end_ETL_datapipeline.png # Architecture diagram
 │── README.md
 │── requirements.txt
-│── credentials.txt
 ```
 
 ## 🔧 Tech Stack
