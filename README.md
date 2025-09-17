@@ -33,15 +33,17 @@ The pipeline is fully automated using **Python, AWS Lambda, S3, and Snowflake Sn
 ---
 
 ## 📂 Project Structure
+```
 spotify-pipeline/
-│── main.ipynb # Jupyter Notebook (local dev)
+│── main.ipynb                     # Jupyter Notebook (local dev)
 │── spotify_api_extract_function.py # Extracts data from Spotify → S3
-|── spotify_transformation_function.py # Transforms raw data → CSV → S3
+│── spotify_transformation_function.py # Transforms raw data → CSV → S3
 │── spotify_snowflake_datapipeline.sql # All Snowflake objects (tables, stage, snowpipe, etc.)
 │── Spotify_snowflake_end_to_end_ETL_datapipeline.png # Architecture diagram
 │── README.md
 │── requirements.txt
-|── credentials.txt 
+│── credentials.txt
+```
 
 ## 🔧 Tech Stack
 - **Programming:** Python (Spotipy, Pandas, Boto3)
